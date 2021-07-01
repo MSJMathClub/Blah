@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Mission San Jose High School Math Club Website"
+theme = "terminal"
+
+[params]
+    fullWidthTheme = false
+    centerTheme = true
